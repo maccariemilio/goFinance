@@ -2,6 +2,7 @@
   "expo": {
     "name": "financi",
     "slug": "financi",
+    "scheme": "financi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
